@@ -13,7 +13,7 @@ JAVASCRIPT
 
 ## Instructions:
 
-- Create a server using Node JS (express package, cors and body-parser)
+- Create a local server using Node JS (express package, cors and body-parser)
 - Create GET and POST routes to handle client side requests
 - Acquire API credentials from OpenWeatherMap website
 - Create an event listener for an HTML element and a Callback function

@@ -6,7 +6,7 @@ body{
 #app{
     display: grid;
     grid-auto-rows: minmax(150px, auto);
-    /* grid-template-columns:  */
+    grid-template-columns: minmax(auto, 90%);
     height:100vh;
     background: #f23557;
     color: #f0d43a;
@@ -20,8 +20,14 @@ body{
 
 }
 
+.mine{
+    display: flex;
+    flex-direction: column;
+}
+
 .entry{
     background: rgba(59, 74, 107, .4);
+
 }
 
 #entryHolder{
