@@ -1,6 +1,6 @@
 /* Global Variables */
-let baseURL = 'http://api.openweathermap.org/data/2.5/weather?zip=';
-let apiKey = '&appid=c86f01ccdec8fff8e91969ab634364fa&units=metric'; //AP key and units parameter in Celsius
+const baseURL = 'http://api.openweathermap.org/data/2.5/weather?zip=';
+const apiKey = '&appid=c86f01ccdec8fff8e91969ab634364fa&units=metric'; //AP key and units parameter in Celsius
 // Create a new date instance dynamically with JS
 let d = new Date();
 const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
