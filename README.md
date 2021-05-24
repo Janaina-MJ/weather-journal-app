@@ -4,8 +4,8 @@ This is a project to [Udacity](https://www.udacity.com/us)'s Front End Web Devel
 
 ## Overview
 
-This is a single page web app, which has two input field for the user to insert a zip code (postcode) and a text expressing their feelings at that moment.  
-After completing the form fields and submitting it, the app gets data from the API and updates the page with information about the weather in the informed location and the information previously entered by the user.
+This is a single page web app, which has two input fields for the user to insert a zip code (postcode) and a text expressing their feelings at that moment.  
+After completing the form fields and submitting it, the app gets data from the API and updates the page with information about the weather in the submitted location and the information previously entered by the user.
 
 ## Project Intro
 
@@ -13,11 +13,11 @@ After completing the form fields and submitting it, the app gets data from the A
 
 * The goal of this project is to get practice with:
 
-- Setting up a local server using Node JS (express package, cors and body-parser)
-- Creating GET and POST routes to handle client side requests
-- Acquiring API credentials
-- Creating event listener for HTML elements in conjunction with Callback functions
-- Creating callback functions using chain promises to call other asynchronous functions (e.g. making GET and POST requests and update the UI dynamically)
+  - Setting up a local server using Node JS (express package, cors and body-parser)
+  - Creating GET and POST routes to handle client side requests
+  - Acquiring API credentials
+  - Creating event listener for HTML elements in conjunction with Callback functions
+  - Creating callback functions using chain promises to call other asynchronous functions (e.g. making GET and POST requests and update the UI dynamically)
 
 * Language and tools for this project:
   - Node & Express: For server side development
